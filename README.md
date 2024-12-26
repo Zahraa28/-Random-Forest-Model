@@ -1,11 +1,2 @@
 # -Random-Forest-Model
-cancer.csv is the data that I work on and AI.ipynb is the model that I made:
-I build a model that can predict whether a person will have a cancer or not
-How i do in this project?
--drop the missing values.
--prepare time series data for analysis
--Create my feature matrix and target vector ,Divide my data
--build a Random Forest model for classification.
--build a data pipeline for imputing missing values and encoding categorical features.
--Evaluate the model using classification
--Load and save files using python Address imbalnced data using resampling techniques
+"I developed a machine learning solution using a Random Forest model to predict whether a person has cancer based on their medical data. Using Python and libraries like scikit-learn, pandas, and matplotlib, I cleaned and preprocessed the dataset, trained the model, and evaluated its performance. The model achieved an accuracy of 95%, showcasing its reliability in predicting cancer outcomes. This project demonstrates my ability to apply machine learning techniques to real-world problems and can be adapted to other industries like healthcare and finance for predictive modeling.
